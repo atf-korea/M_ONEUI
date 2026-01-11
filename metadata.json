@@ -1,0 +1,8 @@
+{
+  "name": "OneUI Multi-Window Manager",
+  "description": "A productivity dashboard for Galaxy Tab users to manage Samsung Flow mirroring alongside custom apps in a split-screen OneUI-inspired interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
